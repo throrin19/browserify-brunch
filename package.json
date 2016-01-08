@@ -18,7 +18,7 @@
     "ws": "^0.4.31"
   },
   "peerDependencies": {
-    "browserify": ">= 5.0.0 < 12"
+    "browserify": ">= 5.0.0 < 13"
   },
   "devDependencies": {
     "coffee-script": "^1.7.1"
